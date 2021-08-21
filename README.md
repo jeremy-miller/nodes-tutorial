@@ -1,2 +1,2 @@
-# nodes-tutorial
-Code for Nodes.io tutorial
+# Nodes Tutorial
+Code for [Nodes.io tutorial](https://nodes.io/docs/tutorial/).
